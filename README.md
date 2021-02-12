@@ -3,7 +3,7 @@
 
 The goal of this project was to build a linear regression model from the ground up using numpy.
 
-[colab](https://colab.research.google.com/drive/17Ew0vJDiJ1RcsNBXizewnQCQQ9ntAdCV#scrollTo=u0Lto-3g_d3H) 
+[colab](https://colab.research.google.com/drive/17Ew0vJDiJ1RcsNBXizewnQCQQ9ntAdCV) 
 
 
 ```python
